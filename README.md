@@ -1,3 +1,10 @@
+TitikKoma adalah Platfrom Penyedia Kursus Online dengan Mutiple User ( Student, Teacher, Admin) menggunakan bahasa pemogramman : 1. Backend : Menggunakan Framework PHP yaitu Laravel. 2.FrontEnd : Menggunakan CSS dan Sedikit Tailwind
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
